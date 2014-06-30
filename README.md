@@ -9,3 +9,5 @@ rewrite the annotation module with database, it will increase the speed and re-
 duce the memery using;a merge module and so on.
 
 ==============================================================================
+To use those scripts, samtools is required. I use the software to get the ref-
+rence nucletide(s).
