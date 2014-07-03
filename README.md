@@ -1,4 +1,4 @@
-vcfpltoolskit is a summary of perl codes, which aim to manipulate vcf 4.0 files.
+vcfpltoolskit is a summary of perl codes, which aims to manipulate vcf 4.0 files.
 
 ===============================================================================
 
@@ -7,11 +7,11 @@ what's I want to add are as below:
 rewrite the annotation module with database, it will increase the speed and reduce the memery using;a merge module and so on.
 
 ==============================================================================
-To use those scripts, samtools is required. I use the software to get the refrence nucletide(s).
+To use those scripts, samtools(http://samtools.sourceforge.net/samtools.shtml) is required. I use the software to get the reference nucletide(s).
 
 ===============================
-I submit both pm files and pl files. The main thing I want to contribute is my pm files. The pl file is just a example.
+I submit all pm files and pl files. The main thing I want to contribute is my pm files. The pl files are just examples.
 
 ================================
-Never use annotation module until I rewrite the module, I will use database instead of hashtable.I use spliting annotion,
+Never use annotation module until I rewrite this module, I will use database instead of hashtable.I tried spliting annotion,
 but it is not so efficient.
