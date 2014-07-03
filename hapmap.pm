@@ -1,5 +1,60 @@
 package hapmap;
 
+=pod
+
+=head1 DESCRIPTION
+	
+	This module is for manipulate VCF files, In this version,I write the
+vcf class roughly, obviously in the attribute--INFO.For the complexity of
+the part. In future, I will rewrite the part and add more vcf format to 
+the part.
+
+
+=head2 Main Function
+
+=over 1
+
+=item C<Create a hapmap class>
+we write a class to read hapmap fies, and return a object.
+	
+=back
+
+=head1 LICENSE
+
+=head1 AUTHOR:
+Hu XiaoLin	L<conversodin66@gmail.com>
+
+=head1 SEE ALSO
+
+=over 12
+
+=item C<NCBI dbSNP>
+	L<http://www.ncbi.nlm.nih.gov/SNP/>
+
+
+=item C<1000 genomes>
+	L<http://www.1000genomes.org/>
+	
+=item C<hapmap>
+	L<http://hapmap.ncbi.nlm.nih.gov/>
+	
+=back
+
+
+
+
+
+
+
+
+
+
+=cut 
+
+
+
+
+
 sub new{
 
 	my($class)=shift;
