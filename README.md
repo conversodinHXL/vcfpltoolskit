@@ -8,3 +8,10 @@ rewrite the annotation module with database, it will increase the speed and redu
 
 ==============================================================================
 To use those scripts, samtools is required. I use the software to get the refrence nucletide(s).
+
+===============================
+I submit both pm files and pl files. The main thing I want to contribute is my pm files. The pl file is just a example.
+
+================================
+Never use annotation module until I rewrite the module, I will use database instead of hashtable.I use spliting annotion,
+but it is not so efficient.
